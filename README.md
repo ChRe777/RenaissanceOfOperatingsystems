@@ -1,6 +1,7 @@
-# Renaissance of operating systems
+# Renaissance and importance of diversity of operating systems
 
-The renaissance of operating systems.
+The renaissance of operating systems with a great power of diversity
+is I believe a must.
 
 People should help smaller operatings to grow up
 and be connectable with others os by open standard.
